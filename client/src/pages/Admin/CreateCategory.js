@@ -3,7 +3,6 @@ import Layout from "../../components/Layouts/Layout";
 import AdminMenu from "../../components/Layouts/AdminMenu";
 import toast from "react-hot-toast";
 import axios from "axios";
-import { get } from "mongoose";
 import CategoryForm from "../../components/Form/CategoryForm";
 import { Button, Modal } from "antd";
 
